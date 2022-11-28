@@ -1,6 +1,6 @@
-<! -- ### Hi there 👋 -->
+<!-- ### Hi there 👋 -->
 
-<! -- Here are some ideas to get you started: --!>
+<!-- Here are some ideas to get you started: --!>
 
 <! -- - 🔭 I’m currently working on ... --!>
 <! -- - 🌱 I’m currently learning ... --!>
@@ -9,7 +9,7 @@
 <! -- - 💬 Ask me about ... --!>
 <! -- - 📫 How to reach me: ... --!>
 <! -- - 😄 Pronouns: ... --!>
-<! -- - ⚡ Fun fact: ... --!>
+<! -- - ⚡ Fun fact: ... -->
 
 ### Bonjour chère visiteuse / cher visiteur 👋
 
