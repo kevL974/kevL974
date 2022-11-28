@@ -11,7 +11,7 @@
 <! -- - 😄 Pronouns: ... --!>
 <! -- - ⚡ Fun fact: ... -->
 
-# Bonjour chère visiteuse / cher visiteur 👋
+# Bonjour chère visiteuse, cher visiteur 👋
 
 Bienvenue dans mon "garage" où je viens de temps de temps m'amuser quand l'envie de coder me prends !
 
