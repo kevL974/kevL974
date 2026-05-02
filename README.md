@@ -23,7 +23,7 @@ Tu trouveras ici tous mes projets personnels sur lesquels j'ai travaillé ou col
 
 ## Mes activités du moment :
 
-- Je suis en train de travailler actuellement sur : le Projet USP, un robot de trading crytomonnaie pour apprendre la cryptomonnaie et dans l'idéal à terme, me générer un revenu. ( ⚠️ je te conseille pas de le cloner maintenant, il n'est pas au point !!!)
+- Je suis en train de travailler actuellement sur : le Projet CoinEExplorer, un robot de trading crytomonnaie pour apprendre la cryptomonnaie et dans l'idéal à terme, me générer un revenu. ( ⚠️ je te conseille pas de le cloner maintenant, il n'est pas au point !!!)
 - Je suis en train d'apprendre : à utiliser Google Cloud Platform, et à deployer mes projets dans le cloud
 
 ## Comment me contacter :
